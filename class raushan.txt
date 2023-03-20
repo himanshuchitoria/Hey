@@ -1,0 +1,7 @@
+class raushan
+ { 
+
+     /////code m1 
+}
+
+closed
